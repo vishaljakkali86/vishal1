@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="42946" started-at="2017-01-27T11:55:55Z" finished-at="2017-01-27T11:56:38Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="42946" started-at="2017-01-27T11:55:55Z" finished-at="2017-01-27T11:56:38Z">
+      <class name="seleniumCutPiece.extent.DataProvide">
+        <test-method status="PASS" signature="BeginDataFlow(java.lang.String, java.lang.String)[pri:0, instance:seleniumCutPiece.extent.DataProvide@215be6bb]" name="BeginDataFlow" duration-ms="12772" started-at="2017-01-27T17:25:55Z" data-provider="dataVerify" finished-at="2017-01-27T17:26:07Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[admin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[admin]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeginDataFlow -->
+        <test-method status="PASS" signature="BeginDataFlow(java.lang.String, java.lang.String)[pri:0, instance:seleniumCutPiece.extent.DataProvide@215be6bb]" name="BeginDataFlow" duration-ms="18632" started-at="2017-01-27T17:26:07Z" data-provider="dataVerify" finished-at="2017-01-27T17:26:26Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[user]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[admin]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeginDataFlow -->
+        <test-method status="PASS" signature="BeginDataFlow(java.lang.String, java.lang.String)[pri:0, instance:seleniumCutPiece.extent.DataProvide@215be6bb]" name="BeginDataFlow" duration-ms="11481" started-at="2017-01-27T17:26:26Z" data-provider="dataVerify" finished-at="2017-01-27T17:26:38Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[admin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[user]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeginDataFlow -->
+      </class> <!-- seleniumCutPiece.extent.DataProvide -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
